@@ -1,8 +1,8 @@
 ---
 content_type: page
-learning_resource_types:
-- Readings
-ocw_type: CourseSection
+description: The reading section contains table listing readings according to sessions.
+learning_resource_types: []
+ocw_type: ''
 title: Readings
 uid: 528b2b07-da9a-54ed-e83c-b3ad79af4c54
 ---
